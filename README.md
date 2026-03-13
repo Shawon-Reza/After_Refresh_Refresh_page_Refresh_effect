@@ -97,13 +97,13 @@ const LandingPage = () => {
 
 
 
-## My Guitar Repos – Quick Links
+## My Github Repos – Quick Links
 
 All my feature docs live in separate repos. Click any to jump straight to its README.
 
 | Repo Name              | Description                          | Link                                      |
 |------------------------|--------------------------------------|-------------------------------------------|
-| custom-folks-ad        | Custom ads for folks platform        |[](https://github.com/yourusername/custom-folks-ad#readme) |
+| After_Refresh_Refresh_page_Refresh_effect       | Custom ads for folks platform        |[]([https://github.com/yourusername/custom-folks-ad#readme](https://github.com/Shawon-Reza/After_Refresh_Refresh_page_Refresh_effect)) |
 | guitar-hero-ui         | Hero section animations + scroll     |[](https://github.com/yourusername/guitar-hero-ui#readme) |
 | smooth-nav-scroll      | Single-page smooth redirect system   |[](https://github.com/yourusername/smooth-nav-scroll#readme) |
 | privacy-policy-gen     | Auto-gen privacy & security pages    |[](https://github.com/yourusername/privacy-policy-gen#readme) |
