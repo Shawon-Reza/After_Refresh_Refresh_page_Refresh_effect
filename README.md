@@ -94,3 +94,41 @@ const LandingPage = () => {
 }
 
 ```
+
+
+
+## My Guitar Repos – Quick Links
+
+All my feature docs live in separate repos. Click any to jump straight to its README.
+
+| Repo Name              | Description                          | Link                                      |
+|------------------------|--------------------------------------|-------------------------------------------|
+| custom-folks-ad        | Custom ads for folks platform        |[](https://github.com/yourusername/custom-folks-ad#readme) |
+| guitar-hero-ui         | Hero section animations + scroll     |[](https://github.com/yourusername/guitar-hero-ui#readme) |
+| smooth-nav-scroll      | Single-page smooth redirect system   |[](https://github.com/yourusername/smooth-nav-scroll#readme) |
+| privacy-policy-gen     | Auto-gen privacy & security pages    |[](https://github.com/yourusername/privacy-policy-gen#readme) |
+| guitar-analytics       | Real-time usage tracking             |[](https://github.com/yourusername/guitar-analytics#readme) |
+| auth-flow-v2           | Auth + social login boilerplate      |[](https://github.com/yourusername/auth-flow-v2#readme) |
+| guitar-footer-kit      | Reusable footer with socials         |[](https://github.com/yourusername/guitar-footer-kit#readme) |
+
+**Tip:** Replace `yourusername` with your actual GitHub username.  
+If you ever add more—just copy-paste a row. Keeps everything one glance away.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
